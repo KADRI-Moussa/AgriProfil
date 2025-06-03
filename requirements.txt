@@ -2,3 +2,4 @@ streamlit
 pandas
 Pillow
 geocoder
+streamlit-js-eval
